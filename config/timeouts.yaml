@@ -1,0 +1,4 @@
+gateway_timeout: 30000
+retry_count: 5
+connection_pool_size: 10
+health_check_interval: 30
